@@ -15,7 +15,7 @@ CONTENIDO Ejercicio Jupyter:
 - leer archivo CSV
 - seleccion de columnas.
 
-CONTENIDO Python_Avanzado:
+CONTENIDO Ejercicio_Python_Avanzado:
 
 - Funciones avanzadas: Kwargs, bucle while, isinstance/raise
 - Control de excepciones: try/except/raise
