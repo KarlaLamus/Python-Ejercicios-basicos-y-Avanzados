@@ -9,7 +9,7 @@ CONTENIDO Ejercicio_python_básico:
 - Bucles
 - Funciones
 
-CONTENIDO Ejercicio Jupyter:
+CONTENIDO Ejercicio Basico Jupyter:
 
 - Crear Entorno virtual IOS
 - leer archivo CSV
